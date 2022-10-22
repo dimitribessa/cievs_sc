@@ -1,33 +1,17 @@
 "reg_saude";"pesos";"amostras"
-"Alto Uruguai Catarinense";0.65;1
-"Alto Vale do Itajaí";3.54;4
-"Alto Vale do Rio do Peixe";1.7;2
-"Carbonífera";2.11;2
-"Extremo Oeste";2.57;3
-"Extremo Sul Catarinense";3.36;4
-"Foz do Rio Itajaí";7.26;8
-"Grande Florianópolis";29.04;32
-"Laguna";6.43;7
-"Médio Vale do Itajaí";10;11
-"Meio Oeste";2.39;3
-"Nordeste";17.43;19
-"Oeste";3.4;4
-"Planalto Norte";1.12;1
-"Serra Catarinense";7.6;8
-"Xanxerê";1.4;2
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;NA
-NA;NA;33
+"Alto Uruguai Catarinense";0.81;1
+"Alto Vale do Itajaí";1.74;2
+"Alto Vale do Rio do Peixe";1.38;2
+"Carbonífera";4.47;5
+"Extremo Oeste";3.63;4
+"Extremo Sul Catarinense";0.5;1
+"Foz do Rio Itajaí";6.27;7
+"Grande Florianópolis";29.74;33
+"Laguna";6.48;7
+"Médio Vale do Itajaí";13.87;15
+"Meio Oeste";0.08;0
+"Nordeste";19.23;21
+"Oeste";7.22;8
+"Planalto Norte";0.67;1
+"Serra Catarinense";1.55;2
+"Xanxerê";2.35;3
